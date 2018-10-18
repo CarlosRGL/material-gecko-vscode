@@ -19,8 +19,7 @@
     "editorWidget.border": "#009688",
     // input
     "input.border": "#009688",
-    // menu
-    "pickerGroup.foreground": "#009688",
+
     // this is the main text colour
     "editor.foreground": "#d5f2ff",
     "editor.selectionBackground": "#67769660",
