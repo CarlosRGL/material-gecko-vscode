@@ -255,6 +255,13 @@
       }
     },
     {
+      "name": "[JS] object key",
+      "scope": ["constant.other.object.key.js"],
+      "settings": {
+        "foreground": "#f3a1d1"
+      }
+    },
+    {
       "name": "[PHP] syntax loops",
       "scope": ["keyword.control", "meta.for.js keyword.control.loop.js"],
       "settings": {
