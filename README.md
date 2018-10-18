@@ -49,6 +49,7 @@ I love Material Theme but I miss some italics and other colours so I created thi
 
 1. [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 2. [Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)
+3. [Error Lens](https://github.com/phindle/error-lens)
 
 ## Important: CSS Hacks For Extra Sweet Editor
 

@@ -13,7 +13,7 @@
     "url": "https://github.com/CarlosRGL/material-gecko-vscode"
   },
   "galleryBanner": {
-    "color": "#D81B60",
+    "color": "#dddddd",
     "theme": "dark"
   },
   "categories": [
