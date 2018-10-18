@@ -53,10 +53,10 @@ I love Material Theme but I miss some italics and other colours so I created thi
 
 ## Important: CSS Hacks For Extra Sweet Editor
 
-Some things in VS Code can't be controlled by settings, but you can install [this plugin](https://github.com/be5invis/vscode-custom-css), then make a file on your computer that will hold your custom CSS, I like to make one in my root called `~/.vscodestyles.css`
-Once done, open your command palette and select enable **custom CSS and JS** then make a file on your computer that will hold your custom CSS, I like to make one in my root called `~/.vscodestyles.css` and then put this everything in [vscodestyles.css](./vscodestyles.css) into your file.
+Some things in VS Code can't be controlled by settings, but you can install [this plugin](https://github.com/be5invis/vscode-custom-css), then make a file on your computer that will hold your custom CSS, I like to make one in my root called `~/.vscodestyles.css` and then put this everything in [vscodestyles.css](./vscodestyles.css) into your file.
+Once done, open your command palette and select enable **custom CSS and JS**
 
-Finally reload your editor and the Custom CSS should be taking. You can test this by typing into file - the dirty circle should be yellow not white.
+Finally reload your editor and the Custom CSS should be taking.
 
 **_Note: Reloading custom CSS and JS after every VSCode update is a must!_**
 
