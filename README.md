@@ -4,9 +4,9 @@ Another material theme for fancy italic fonts
 
 I love Material Theme but I miss some italics and other colours so I created this theme
 
-![Preview](https://raw.githubusercontent.com/CarlosRGL/material-gecko-theme/master/images/gecko1.png)
+![Preview](https://raw.githubusercontent.com/CarlosRGL/material-gecko-vscode/master/images/gecko1.png)
 
-![Preview](https://raw.githubusercontent.com/CarlosRGL/material-gecko-theme/master/images/gecko2.png)
+![Preview](https://raw.githubusercontent.com/CarlosRGL/material-gecko-vscode/master/images/gecko2.png)
 
 # Installation
 
