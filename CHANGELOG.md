@@ -7,6 +7,16 @@ documented in this file.
 
 <br>
 
+### RELEASE: [1.1.0](https://github.com/CarlosRGL/material-gecko-vscode/compare/1.0.0...1.1.0)
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 banner background + new recomended extension [`50fa1c6`](https://github.com/CarlosRGL/material-gecko-vscode/commit/50fa1c6255ff80eda883c584cec20dcf8b452a1f) <br>
+
+<br>
+
+<br>
+
 ### RELEASE: 1.0.0
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
