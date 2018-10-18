@@ -7,6 +7,16 @@ documented in this file.
 
 <br>
 
+### RELEASE: [1.2.0](https://github.com/CarlosRGL/material-gecko-vscode/compare/1.1.0...1.2.0)
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 bg color banner marketplace [`a1deef1`](https://github.com/CarlosRGL/material-gecko-vscode/commit/a1deef1e22a43ec8530c9ea02a6cc58c98045f16) <br>
+
+<br>
+
+<br>
+
 ### RELEASE: [1.1.0](https://github.com/CarlosRGL/material-gecko-vscode/compare/1.0.0...1.1.0)
 
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
