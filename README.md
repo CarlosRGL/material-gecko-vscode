@@ -47,8 +47,8 @@ I love Material Theme but I miss some italics and other colours so I created thi
 
 ## Best extension for a sweet look
 
-[Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
-[Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)
+1. [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+2. [Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)
 
 ## Important: CSS Hacks For Extra Sweet Editor
 
