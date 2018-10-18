@@ -2,7 +2,7 @@
   "name": "material-gecko",
   "displayName": "Material Gecko",
   "description": "Another material theme for fancy italic fonts",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "publisher": "carlos-rgl",
   "engines": {
     "vscode": "^1.27.0"

@@ -7,6 +7,20 @@ documented in this file.
 
 <br>
 
+### RELEASE: [1.3.0](https://github.com/CarlosRGL/material-gecko-vscode/compare/1.2.0...1.3.0)
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 delete menu foreground teal [`ab0c065`](https://github.com/CarlosRGL/material-gecko-vscode/commit/ab0c06555475854d89c9e4a82cf3b84e65dc5364) <br>
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 typo README [`f636c54`](https://github.com/CarlosRGL/material-gecko-vscode/commit/f636c5477f744b15eae3800c03bddcd46e4c3431) <br>
+
+<br>
+
+<br>
+
 ### RELEASE: [1.2.0](https://github.com/CarlosRGL/material-gecko-vscode/compare/1.1.0...1.2.0)
 
 ![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
