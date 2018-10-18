@@ -7,15 +7,15 @@
   "beforeChangelogCommand": "auto-changelog",
   "safeBump": false,
   "src": {
-    "commitMessage": "🦄 Release %s",
-    "tagAnnotation": "🦄 Release %s"
+    "commitMessage": "🚀 Release %s",
+    "tagAnnotation": "🚀 Release %s"
   },
   "npm": {
     "publish": false
   },
   "github": {
     "release": true,
-    "releaseName": "🦄 %s"
+    "releaseName": "🚀 %s"
   },
   "prompt": {
     "src": {
