@@ -61,7 +61,7 @@
     "editorGutter.background": "#202020",
     // Breadcrumbs
     "breadcrumb.foreground": "#DDDDDD",
-    "breadcrumb.background": "#191919",
+    "breadcrumb.background": "#161616",
     //Terminal
     "panel.background": "#191919",
     "panel.border": "#111111",
@@ -276,13 +276,13 @@
         "foreground": "#d5f2ff"
       }
     },
-    // {
-    //   "name": "Variables in functions",
-    //   "scope": ["variable.other.object"],
-    //   "settings": {
-    //     "foreground": "#ecc48dff"
-    //   }
-    // },
+    {
+      "name": "Variables in SCSS",
+      "scope": ["variable", "variable.scss"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
     {
       "name": "Colors",
       "scope": ["constant.other.color"],
@@ -347,7 +347,8 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#f07178"
+        // "foreground": "#F78C6C"
       }
     },
     {
@@ -387,7 +388,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#ffe082"
         //"fontStyle": "italic"
       }
     },
