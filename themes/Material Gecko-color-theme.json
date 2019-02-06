@@ -250,7 +250,8 @@
         "keyword.control.flow.js"
       ],
       "settings": {
-        "foreground": "#6dc7ff",
+        "foreground": "#89ddf3",
+        // "foreground": "#6dc7ff",
         "fontStyle": "italic"
       }
     },
