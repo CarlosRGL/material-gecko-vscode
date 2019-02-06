@@ -9,13 +9,17 @@ documented in this file.
 
 ### RELEASE: [1.5.0](https://github.com/CarlosRGL/material-gecko-vscode/compare/1.5.0...1.5.0)
 
+![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Update the changelog [`7368973`](https://github.com/CarlosRGL/material-gecko-vscode/commit/7368973e6c5f32c01d3c8d4eb0d57510b69759fc) <br>
+
 <br>
 
 <br>
 
 ### RELEASE: [1.4.0](https://github.com/CarlosRGL/material-gecko-vscode/compare/1.3.0...1.4.0)
 
-![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+![IMPROVE](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
 > 👌 color objectkey [`0424daf`](https://github.com/CarlosRGL/material-gecko-vscode/commit/0424daf5a825da8e0418ba5c3dfaffd8a4572b73) <br>
 
@@ -29,7 +33,7 @@ documented in this file.
 
 ### RELEASE: [1.3.0](https://github.com/CarlosRGL/material-gecko-vscode/compare/1.2.0...1.3.0)
 
-![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+![IMPROVE](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
 > 👌 delete menu foreground teal [`ab0c065`](https://github.com/CarlosRGL/material-gecko-vscode/commit/ab0c06555475854d89c9e4a82cf3b84e65dc5364) <br>
 
@@ -53,7 +57,7 @@ documented in this file.
 
 ### RELEASE: [1.1.0](https://github.com/CarlosRGL/material-gecko-vscode/compare/1.0.0...1.1.0)
 
-![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+![IMPROVE](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
 > 👌 banner background + new recomended extension [`50fa1c6`](https://github.com/CarlosRGL/material-gecko-vscode/commit/50fa1c6255ff80eda883c584cec20dcf8b452a1f) <br>
 
