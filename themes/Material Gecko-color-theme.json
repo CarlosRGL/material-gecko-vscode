@@ -113,7 +113,7 @@
     // Notification Colors.
     "notificationCenter.border": "#111111", // Notification Center border color.
     "notificationCenterHeader.foreground": "#003757", // Notification Center header foreground color.
-    "notificationCenterHeader.background": "#03a9f4", // Notification Center header background color.
+    "notificationCenterHeader.background": "#008fd1", // Notification Center header background color.
     "notificationToast.border": "#003757", // Notification toast border color.
     "notifications.foreground": "#d5f2ff", // Notification foreground color.
     "notifications.background": "#1E1E3F", // Notification background color.
@@ -153,6 +153,12 @@
     "diffEditor.removedTextBorder": "#ff000d81"
   },
   "tokenColors": [
+    // General
+    {
+      "settings": {
+        "foreground": "#d5f2ff"
+      }
+    },
     {
       "name": "Comment",
       "scope": ["comment", "punctuation.definition.comment"],
