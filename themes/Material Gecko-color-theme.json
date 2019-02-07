@@ -150,7 +150,13 @@
     "diffEditor.insertedTextBackground": "#00ff000e",
     "diffEditor.insertedTextBorder": "#00ff009a",
     "diffEditor.removedTextBackground": "#ff000d1a",
-    "diffEditor.removedTextBorder": "#ff000d81"
+    "diffEditor.removedTextBorder": "#ff000d81",
+
+    // Errors and warnings:
+    // "editorError.border": "#EC3A37F5",
+    "editorError.foreground": "#EC3A37F5",
+    "editorWarning.border": "#FFFFFF00",
+    "editorWarning.foreground": "#FAD000"
   },
   "tokenColors": [
     // General
