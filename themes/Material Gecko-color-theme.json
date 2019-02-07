@@ -160,10 +160,52 @@
       }
     },
     {
+      "name": "[ITALLICS] All the awesome itallics live here.",
+      "scope": [
+        "italic",
+        "keyword.control",
+        "quote",
+        "storage",
+        "modifier",
+        "this",
+        "comment",
+        // "string",
+        // "entity.name.function",
+        // "support.function",
+        "support.type.property-name",
+        "entity.other.attribute-name",
+        "punctuation.definition.comment",
+        "text.html.basic entity.other",
+        "markup.quote",
+        "markup.italic",
+        "meta.tag.sgml.doctype",
+        "punctuation.binary",
+        "markup.changed",
+        "meta.diff.header",
+        "meta.diff.header.from-file",
+        "meta.diff.header.to-file",
+        "markup.deleted.diff",
+        "markup.inserted.diff",
+        "meta.delimiter.period",
+        "punctuation.accessor",
+        "meta.var.expr",
+        "meta.class meta.method.declaration meta.var.expr storage.type",
+        "variable.other.object.property",
+        "entity.name.tag.doctype",
+        "meta.tag.sgml.doctype",
+        "entity.name.section",
+        "meta.selector",
+        "variable.language.this.js",
+        "variable.language.super.js"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "Comment",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#4A4A4A"
       }
     },
@@ -216,7 +258,8 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#63e4d8"
+        "foreground": "#63e4d8",
+        "fontStyle": "normal"
       }
     },
     {
@@ -406,8 +449,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#f07178"
-        // "foreground": "#F78C6C"
+        "foreground": "#F78C6C"
       }
     },
     {
@@ -456,7 +498,6 @@
       "scope": ["support.type"],
       "settings": {
         "foreground": "#d5f2ff"
-        //"fontStyle": "italic",
       }
     },
     {
@@ -474,7 +515,6 @@
       "name": "Language methods",
       "scope": ["variable.language"],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#FF5370"
       }
     },
@@ -482,7 +522,6 @@
       "name": "entity.name.method.js",
       "scope": ["entity.name.method.js"],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#82AAFF"
       }
     },
@@ -512,15 +551,15 @@
         "entity.other.attribute-name.jsx"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#FFCB6B"
       }
     },
     {
       "name": "CSS Classes",
-      "scope": ["entity.other.attribute-name.class"],
+      "scope": ["entity.other.attribute-name.class.css"],
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#FFCB6B",
+        "fontStyle": "normal"
       }
     },
     {
@@ -579,7 +618,6 @@
         "tag.decorator.js punctuation.definition.tag.js"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#82AAFF"
       }
     },
@@ -589,7 +627,6 @@
         "source.js constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#FF5370"
       }
     },
@@ -715,7 +752,6 @@
       "name": "Markup - Italic",
       "scope": ["markup.italic"],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#f07178"
       }
     },
