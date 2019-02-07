@@ -25,7 +25,7 @@
     // https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_button-control
     "button.background": "#03a9f4",
     "button.hoverBackground": "#007ac1",
-    "button.foreground": "#d5f2ff",
+    "button.foreground": "#003757",
 
     // Status Bar Colors.
     // The Status Bar is shown in the bottom of the workbench.
@@ -36,11 +36,30 @@
     "statusBarItem.activeBackground": "#03a9f4",
     "statusBarItem.hoverBackground": "#03a8f46e",
 
+    // Extensions.
+    // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_extensions
+    "extensionButton.prominentBackground": "#03a9f4",
+    "extensionButton.prominentForeground": "#003757",
+    "extensionButton.prominentHoverBackground": "#007ac1",
+    "focusBorder": "#1E1E3F",
+
     // Widget
+    // The Editor widget is shown in front of the editor content. Examples are the Find/Replace dialog, the suggestion widget, and the editor hover.
+    // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_editor-widget-colors
     "editorWidget.background": "#191919",
     "editorWidget.border": "#03a9f4",
+    "editorSuggestWidget.foreground": "#d5f2ff",
+    //"editorSuggestWidget.highlightForeground": "#03a9f4",
     // input
+    // Input Control.
+    // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_input-control
+    "input.background": "#1f1f1f",
     "input.border": "#03a9f4",
+    "input.foreground": "#d5f2ff",
+    "input.placeholderForeground": "#d5f2ff8a",
+    "inputValidation.errorBackground": "#2D2B55",
+    "inputValidation.errorBorder": "#FF5370",
+    "inputValidation.warningBorder": "#FFC135",
 
     // ——— Editor ———
     // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_editor-colors
