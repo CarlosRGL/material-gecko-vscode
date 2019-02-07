@@ -19,7 +19,7 @@
     "activityBarBadge.foreground": "#003757",
     "activityBar.background": "#191919",
     "activityBar.foreground": "#d5f2ff",
-    "activityBar.border": "#131313",
+    "activityBar.border": "#111111",
 
     // Button.
     // https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_button-control
