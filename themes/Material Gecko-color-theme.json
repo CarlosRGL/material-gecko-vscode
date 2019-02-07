@@ -77,9 +77,13 @@
     "editorLineNumber.activeForeground": "#d5f2ff",
     "editorCursor.foreground": "#03a9f4",
 
+    // To see the editor white spaces, enable Toggle Render Whitespace.
+    "editorWhitespace.foreground": "#FFFFFF1A",
+    "errorForeground": "#EC3A37F5",
+
     // Sidebar.
     // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_side-bar
-    "sideBar.background": "#191919",
+    "sideBar.background": "#1f1f1f",
     "sideBar.border": "#111111",
     "sideBar.foreground": "#d5f2ff",
     "sideBarSectionHeader.background": "#212121",
@@ -94,21 +98,38 @@
 
     //tab
     "tab.activeBorder": "#03a9f4",
-    "tab.activeForeground": "#DDDDDD",
+    "tab.activeForeground": "#d5f2ff",
     "tab.hoverBackground": "#282a2e",
     "tab.activeBackground": "#212121",
     "tab.inactiveBackground": "#191919",
     "editorGroupHeader.tabsBackground": "#191919",
     "tab.border": "#111111",
-    // Peek View
+
+    // Peek View Colors.
+    // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_peek-view-colors
     "peekViewEditor.background": "#191919",
     "peekView.border": "#03a9f4",
     "peekViewEditor.matchHighlightBackground": "#ffffff3f",
-    // Gutter
+
+    // Quick Picker.
+    // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_quick-picker
+    "pickerGroup.border": "#111111",
+    "pickerGroup.foreground": "#d5f2ff",
+
+    // Gutter: The gutter contains the glyph margins and the line numbers:
     "editorGutter.background": "#202020",
-    // Breadcrumbs
-    "breadcrumb.foreground": "#DDDDDD",
-    "breadcrumb.background": "#161616",
+    "editorGutter.addedBackground": "#35AD68",
+    "editorGutter.deletedBackground": "#EC3A37F5",
+    "editorGutter.modifiedBackground": "#03a8f4a6",
+
+    // Breadcrumbs.
+    "breadcrumb.focusForeground": "#03a9f4", // Color of focused breadcrumb items.
+    "breadcrumb.activeSelectionForeground": "#FFFFFF", // Color of selected breadcrumb items.
+    "breadcrumbPicker.background": "#111111", // Background color of breadcrumb item picker.
+
+    // Progress Bar.
+    // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_progress-bar
+    "progressBar.background": "#03a9f4",
 
     // Notification Colors.
     "notificationCenter.border": "#111111", // Notification Center border color.
@@ -121,8 +142,8 @@
     "notificationLink.foreground": "#003757", // Notification links foreground color.
 
     //Terminal
-    "panel.background": "#191919",
-    "panel.border": "#111111",
+    "panel.background": "#141414",
+    "panel.border": "#03a9f4",
     "terminal.ansiWhite": "#d5f2ff",
     "terminal.ansiBlack": "#252525",
     "terminal.ansiBlue": "#42A5F5",
@@ -145,6 +166,7 @@
     "gitDecoration.modifiedResourceForeground": "#FFCB6B",
     "gitDecoration.untrackedResourceForeground": "#C3E88D",
     "gitDecoration.ignoredResourceForeground": "#84848490",
+
     // Diff Editor.
     // https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_diff-editor-colors
     "diffEditor.insertedTextBackground": "#00ff000e",
