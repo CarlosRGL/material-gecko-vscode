@@ -279,7 +279,7 @@
     },
     {
       "name": "Variables in SCSS",
-      "scope": ["variable", "variable.scss"],
+      "scope": ["variable.scss"],
       "settings": {
         "fontStyle": "italic"
       }
