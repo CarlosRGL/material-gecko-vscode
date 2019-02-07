@@ -9,6 +9,10 @@ documented in this file.
 
 ### RELEASE: [2.0.0](https://github.com/CarlosRGL/material-gecko-vscode/compare/2.0.0...2.0.0)
 
+![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Update the changelog [`4479896`](https://github.com/CarlosRGL/material-gecko-vscode/commit/4479896e2873fc0f5933e2dc7da4a500e1c3cf3d) <br>
+
 <br>
 
 <br>
