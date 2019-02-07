@@ -7,11 +7,33 @@ documented in this file.
 
 <br>
 
-### RELEASE: [1.5.0](https://github.com/CarlosRGL/material-gecko-vscode/compare/1.5.0...1.5.0)
+### RELEASE: [2.0.0](https://github.com/CarlosRGL/material-gecko-vscode/compare/2.0.0...2.0.0)
+
+<br>
+
+<br>
+
+### RELEASE: [1.6.0](https://github.com/CarlosRGL/material-gecko-vscode/compare/1.5.0...1.6.0)
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 italics only css variables [`73d3976`](https://github.com/CarlosRGL/material-gecko-vscode/commit/73d39764f832817f09f500a9731a98f547c8a2a6) <br>
 
 ![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
 >  📖 Update the changelog [`7368973`](https://github.com/CarlosRGL/material-gecko-vscode/commit/7368973e6c5f32c01d3c8d4eb0d57510b69759fc) <br>
+>  📖 Update the changelog [`68a0b8b`](https://github.com/CarlosRGL/material-gecko-vscode/commit/68a0b8b4c75b246ec8fd5f35a4c71d49e17f3c8f) <br>
+
+<br>
+
+<br>
+
+### RELEASE: [1.5.0](https://github.com/CarlosRGL/material-gecko-vscode/compare/1.4.0...1.5.0)
+
+![IMPROVE](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 change foreground color parameter [`97dfdd0`](https://github.com/CarlosRGL/material-gecko-vscode/commit/97dfdd0e22cdf6ef53635f6174e638271f61649a) <br>
+> 👌 change foreground color control flow word [`becffee`](https://github.com/CarlosRGL/material-gecko-vscode/commit/becffee9ca6d5012ff3a0522a36f1e68f8852cee) <br>
 
 <br>
 
