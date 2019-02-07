@@ -7,11 +7,35 @@ documented in this file.
 
 <br>
 
-### RELEASE: [2.0.0](https://github.com/CarlosRGL/material-gecko-vscode/compare/2.0.0...2.0.0)
+### RELEASE: [2.1.0](https://github.com/CarlosRGL/material-gecko-vscode/compare/2.1.0...2.1.0)
 
-![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+<br>
 
->  📖 Update the changelog [`4479896`](https://github.com/CarlosRGL/material-gecko-vscode/commit/4479896e2873fc0f5933e2dc7da4a500e1c3cf3d) <br>
+<br>
+
+### RELEASE: [2.0.0](https://github.com/CarlosRGL/material-gecko-vscode/compare/1.6.0...2.0.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 added no italics theme [`db5e9f6`](https://github.com/CarlosRGL/material-gecko-vscode/commit/db5e9f6e1a154e1fd2f47d5811c05057ba718cc0) <br>
+> 📦 improve italics - one json object - future no italics theme incoming [`713a242`](https://github.com/CarlosRGL/material-gecko-vscode/commit/713a24283eab936e852994b02816392fb061d506) <br>
+> 📦 input Control [`23ff5d7`](https://github.com/CarlosRGL/material-gecko-vscode/commit/23ff5d7af82eed4f618c1d40f9ca9a6bca5295ae) <br>
+> 📦 notifications styles [`0e6eb7b`](https://github.com/CarlosRGL/material-gecko-vscode/commit/0e6eb7ba9fc583a86a3879b07e8cbdd8a975d5b8) <br>
+> 📦 Errors and warnings colors in editor [`03f4fdf`](https://github.com/CarlosRGL/material-gecko-vscode/commit/03f4fdff7ef796933315ca3538146963b8c481b8) <br>
+
+![IMPROVE](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Road to V2 - refactor json code theme + cahnge accent color [`a141bf0`](https://github.com/CarlosRGL/material-gecko-vscode/commit/a141bf0a731df6d33a97e73411dcfad08c82dd8f) <br>
+> 👌 gutter and breadcrumbs colors [`049679e`](https://github.com/CarlosRGL/material-gecko-vscode/commit/049679e9176bf21892ec3172b259b1844d04346c) <br>
+> 👌 update dependencies [`7119839`](https://github.com/CarlosRGL/material-gecko-vscode/commit/71198396a4e84222ff9f12a4496b114d769b12da) <br>
+> 👌 badge background and foreground colors [`4a3dcdb`](https://github.com/CarlosRGL/material-gecko-vscode/commit/4a3dcdb390d4a5be5e5199269f4c2850b6b0676b) <br>
+> 👌 status bar colors [`7d677e3`](https://github.com/CarlosRGL/material-gecko-vscode/commit/7d677e3fe573c8b8dea364709c6b8481d6c2f951) <br>
+> 👌 activity bar misc [`bca748c`](https://github.com/CarlosRGL/material-gecko-vscode/commit/bca748cc993ad3e8c409319b7de4b70b12637d7b) <br>
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 switch themes names [`da20dbd`](https://github.com/CarlosRGL/material-gecko-vscode/commit/da20dbdf94fb3bb8f707429022da04fefe698b11) <br>
+> 🐛 general foreground [`62feaed`](https://github.com/CarlosRGL/material-gecko-vscode/commit/62feaeda03a1d4f78208f57bd1b787c890f9f4c1) <br>
 
 <br>
 
