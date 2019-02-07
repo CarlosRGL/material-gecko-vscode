@@ -37,14 +37,7 @@
   "devDependencies": {
     "auto-changelog": "^1.11.0",
     "nodemon": "^1.18.9",
-    "release-it": "^10.0.7"
-  },
-  "scripts": {
-    "start": "nodemon --exec vsce package",
-    "log": "auto-changelog && git add . && git commit -m ' 📖 DOC: Update the changelog' && git push",
-    "release": "release-it && npx vsce publish",
-    "release-major": "release-it major && npx vsce publish",
-    "release-dry": "release-it --dry-run"
+    "release-it": "^10.1.0"
   },
   "auto-changelog": {
     "output": "CHANGELOG.md",
@@ -57,5 +50,12 @@
       "IMPROVE: ": "",
       "DOC: ": ""
     }
+  },
+  "scripts": {
+    "start": "nodemon --exec vsce package",
+    "log": "auto-changelog && git add . && git commit -m ' 📖 DOC: Update the changelog' && git push",
+    "release": "release-it && npx vsce publish",
+    "release-major": "release-it major && npx vsce publish",
+    "release-dry": "release-it --dry-run"
   }
 }
