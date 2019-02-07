@@ -1,4 +1,6 @@
 {
+  // Theme Color reference.
+  // https://code.visualstudio.com/docs/getstarted/theme-color-reference
   "$schema": "vscode://schemas/color-theme",
   "name": "Material Gecko",
   "type": "dark",
@@ -187,49 +189,49 @@
         "foreground": "#d5f2ff"
       }
     },
-    // {
-    //   "name": "[ITALLICS] All the awesome itallics live here.",
-    //   "scope": [
-    //     "italic",
-    //     "keyword.control",
-    //     "quote",
-    //     "storage",
-    //     "modifier",
-    //     "this",
-    //     "comment",
-    //     // "string",
-    //     // "entity.name.function",
-    //     // "support.function",
-    //     "support.type.property-name",
-    //     "entity.other.attribute-name",
-    //     "punctuation.definition.comment",
-    //     "text.html.basic entity.other",
-    //     "markup.quote",
-    //     "markup.italic",
-    //     "meta.tag.sgml.doctype",
-    //     "punctuation.binary",
-    //     "markup.changed",
-    //     "meta.diff.header",
-    //     "meta.diff.header.from-file",
-    //     "meta.diff.header.to-file",
-    //     "markup.deleted.diff",
-    //     "markup.inserted.diff",
-    //     "meta.delimiter.period",
-    //     "punctuation.accessor",
-    //     "meta.var.expr",
-    //     "meta.class meta.method.declaration meta.var.expr storage.type",
-    //     "variable.other.object.property",
-    //     "entity.name.tag.doctype",
-    //     "meta.tag.sgml.doctype",
-    //     "entity.name.section",
-    //     "meta.selector",
-    //     "variable.language.this.js",
-    //     "variable.language.super.js"
-    //   ],
-    //   "settings": {
-    //     "fontStyle": "italic"
-    //   }
-    // },
+    {
+      "name": "[ITALLICS] All the awesome itallics live here.",
+      "scope": [
+        "italic",
+        "keyword.control",
+        "quote",
+        "storage",
+        "modifier",
+        "this",
+        "comment",
+        // "string",
+        // "entity.name.function",
+        // "support.function",
+        "support.type.property-name",
+        "entity.other.attribute-name",
+        "punctuation.definition.comment",
+        "text.html.basic entity.other",
+        "markup.quote",
+        "markup.italic",
+        "meta.tag.sgml.doctype",
+        "punctuation.binary",
+        "markup.changed",
+        "meta.diff.header",
+        "meta.diff.header.from-file",
+        "meta.diff.header.to-file",
+        "markup.deleted.diff",
+        "markup.inserted.diff",
+        "meta.delimiter.period",
+        "punctuation.accessor",
+        "meta.var.expr",
+        "meta.class meta.method.declaration meta.var.expr storage.type",
+        "variable.other.object.property",
+        "entity.name.tag.doctype",
+        "meta.tag.sgml.doctype",
+        "entity.name.section",
+        "meta.selector",
+        "variable.language.this.js",
+        "variable.language.super.js"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
     {
       "name": "Comment",
       "scope": ["comment", "punctuation.definition.comment"],
