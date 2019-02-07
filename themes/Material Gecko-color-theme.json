@@ -1,24 +1,37 @@
 {
+  "$schema": "vscode://schemas/color-theme",
   "name": "Material Gecko",
   "type": "dark",
   "colors": {
-    //"contrastActiveBorder": "#122d42",
-    "contrastBorder": "#0f0f0f",
-    "activityBarBadge.background": "#009688",
+    // Contrast.
+    // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_contrast-colors
+    "contrastActiveBorder": "#FFFFFF00",
+    "contrastBorder": "#FFFFFF00",
+
+    // Activity Bar.
+    // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_activity-bar
+    "activityBarBadge.background": "#03a9f4",
     "activityBar.background": "#191919",
     "activityBar.foreground": "#DDDDDD",
+
     // This is the main background color
     "editor.background": "#212121",
-    //Button
-    "button.background": "#009688",
+
+    // Button.
+    // https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_button-control
+    "button.background": "#03a9f4",
+    "button.hoverBackground": "#007ac1",
+    "button.foreground": "#d5f2ff",
+
     // StatusBar
     "statusBar.background": "#191919",
     "statusBar.foreground": "#DDDDDD",
+
     // Widget
     "editorWidget.background": "#191919",
-    "editorWidget.border": "#009688",
+    "editorWidget.border": "#03a9f4",
     // input
-    "input.border": "#009688",
+    "input.border": "#03a9f4",
 
     // this is the main text colour
     "editor.foreground": "#d5f2ff",
@@ -32,21 +45,25 @@
     "editorBracketMatch.border": "#FFCC0050",
     "editorBracketMatch.background": "#212121",
     "editorLineNumber.activeForeground": "#d5f2ff",
-    "editorCursor.foreground": "#009688",
-    // sidebar
+    "editorCursor.foreground": "#03a9f4",
+
+    // Sidebar.
+    // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_side-bar
     "sideBar.background": "#191919",
     "sideBar.border": "#111111",
-    "sideBar.foreground": "#DDDDDD",
+    "sideBar.foreground": "#d5f2ff",
     "sideBarSectionHeader.background": "#212121",
     "sideBarSectionHeader.foreground": "#d5f2ff",
+
     // List
-    "list.inactiveSelectionForeground": "#d5f2ff",
+    "list.inactiveSelectionForeground": "#d5f2ffd7",
     "list.activeSelectionForeground": "#d5f2ff",
-    "list.activeSelectionBackground": "#0096873a",
+    "list.activeSelectionBackground": "#03a8f444",
     "list.errorForeground": "#FF5252",
     "list.warningForeground": "#FFC135",
+
     //tab
-    "tab.activeBorder": "#009688",
+    "tab.activeBorder": "#03a9f4",
     "tab.activeForeground": "#DDDDDD",
     "tab.hoverBackground": "#282a2e",
     "tab.activeBackground": "#212121",
@@ -55,7 +72,7 @@
     "tab.border": "#111111",
     // Peek View
     "peekViewEditor.background": "#191919",
-    "peekView.border": "#009688",
+    "peekView.border": "#03a9f4",
     "peekViewEditor.matchHighlightBackground": "#ffffff3f",
     // Gutter
     "editorGutter.background": "#202020",
@@ -95,12 +112,6 @@
     "diffEditor.removedTextBorder": "#ff000d81"
   },
   "tokenColors": [
-    // General
-    {
-      "settings": {
-        "foreground": "#d5f2ff"
-      }
-    },
     {
       "name": "Comment",
       "scope": ["comment", "punctuation.definition.comment"],
