@@ -8,14 +8,18 @@
     "contrastActiveBorder": "#FFFFFF00",
     "contrastBorder": "#FFFFFF00",
 
+    // Badge.
+    // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_badge
+    "badge.background": "#03a9f4",
+    "badge.foreground": "#003757",
+
     // Activity Bar.
     // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_activity-bar
     "activityBarBadge.background": "#03a9f4",
+    "activityBarBadge.foreground": "#003757",
     "activityBar.background": "#191919",
-    "activityBar.foreground": "#DDDDDD",
-
-    // This is the main background color
-    "editor.background": "#212121",
+    "activityBar.foreground": "#d5f2ff",
+    "activityBar.border": "#131313",
 
     // Button.
     // https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_button-control
@@ -33,7 +37,9 @@
     // input
     "input.border": "#03a9f4",
 
-    // this is the main text colour
+    // ——— Editor ———
+    // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_editor-colors
+    "editor.background": "#212121",
     "editor.foreground": "#d5f2ff",
     "editor.selectionBackground": "#67769660",
     "editor.selectionHighlightBackground": "#ffffff10",
