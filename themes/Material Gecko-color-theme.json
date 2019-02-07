@@ -109,6 +109,17 @@
     // Breadcrumbs
     "breadcrumb.foreground": "#DDDDDD",
     "breadcrumb.background": "#161616",
+
+    // Notification Colors.
+    "notificationCenter.border": "#111111", // Notification Center border color.
+    "notificationCenterHeader.foreground": "#003757", // Notification Center header foreground color.
+    "notificationCenterHeader.background": "#03a9f4", // Notification Center header background color.
+    "notificationToast.border": "#003757", // Notification toast border color.
+    "notifications.foreground": "#d5f2ff", // Notification foreground color.
+    "notifications.background": "#1E1E3F", // Notification background color.
+    "notifications.border": "#003757", // Notification border color separating from other notifications in the Notification Center.
+    "notificationLink.foreground": "#003757", // Notification links foreground color.
+
     //Terminal
     "panel.background": "#191919",
     "panel.border": "#111111",
