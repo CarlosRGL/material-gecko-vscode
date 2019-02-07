@@ -27,9 +27,14 @@
     "button.hoverBackground": "#007ac1",
     "button.foreground": "#d5f2ff",
 
-    // StatusBar
+    // Status Bar Colors.
+    // The Status Bar is shown in the bottom of the workbench.
+    // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_status-bar-colors
     "statusBar.background": "#191919",
-    "statusBar.foreground": "#DDDDDD",
+    "statusBar.border": "#111111",
+    "statusBar.foreground": "#d5f2ff",
+    "statusBarItem.activeBackground": "#03a9f4",
+    "statusBarItem.hoverBackground": "#03a8f46e",
 
     // Widget
     "editorWidget.background": "#191919",
