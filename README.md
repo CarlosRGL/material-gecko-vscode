@@ -1,5 +1,11 @@
 # Material Gecko Theme for VS Code
 
+<img src="https://vsmarketplacebadge.apphb.com/rating-star/carlos-rgl.material-gecko.svg?style=for-the-badge&colorA=FBBD30&colorB=F2AA08" />
+<a href="https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme">
+<img src="https://vsmarketplacebadge.apphb.com/downloads-short/carlos-rgl.material-gecko.svg?style=for-the-badge&colorA=5DDB61&colorB=4BC74F&label=DOWNLOADS" /></a>
+<a href="https://a.paddle.com/v2/click/16413/37697?link=1227">
+<img src="https://vsmarketplacebadge.apphb.com/version-short/carlos-rgl.material-gecko.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge" /></a>
+
 Another material theme for fancy italic fonts
 
 I love Material Theme but I miss some italics and other colours so I created this theme
