@@ -7,7 +7,18 @@ documented in this file.
 
 <br>
 
-### RELEASE: [2.1.0](https://github.com/CarlosRGL/material-gecko-vscode/compare/2.1.0...2.1.0)
+### RELEASE: [2.1.0](https://github.com/CarlosRGL/material-gecko-vscode/compare/2.0.0...2.1.0)
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 italics json fix [`b2c1e0b`](https://github.com/CarlosRGL/material-gecko-vscode/commit/b2c1e0ba7692357675531065c90e7a4525d9bfe9) <br>
+
+![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Update the changelog [`1589fe1`](https://github.com/CarlosRGL/material-gecko-vscode/commit/1589fe108eb4c2954189947c84fc341876f1bd69) <br>
+>  📖 Update the changelog [`4479896`](https://github.com/CarlosRGL/material-gecko-vscode/commit/4479896e2873fc0f5933e2dc7da4a500e1c3cf3d) <br>
+> 📖 update readme with labels [`d304a06`](https://github.com/CarlosRGL/material-gecko-vscode/commit/d304a061acae37bd5931358f7aaf817f4626164c) <br>
+>  📖 Update the changelog [`de915ea`](https://github.com/CarlosRGL/material-gecko-vscode/commit/de915ea0953edb79d764bde91ee13b643e309791) <br>
 
 <br>
 

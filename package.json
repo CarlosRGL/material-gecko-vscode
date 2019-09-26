@@ -35,9 +35,9 @@
     ]
   },
   "devDependencies": {
-    "auto-changelog": "^1.11.0",
-    "nodemon": "^1.18.9",
-    "release-it": "^10.1.0"
+    "auto-changelog": "^1.16.1",
+    "nodemon": "^1.19.2",
+    "release-it": "^12.4.1"
   },
   "auto-changelog": {
     "output": "CHANGELOG.md",
